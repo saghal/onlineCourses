@@ -11,6 +11,7 @@ Original file is located at
 
 import torch
 import gym
+import matplotlib.pyplot as plt
 
 """##### Define cartpole environment"""
 
@@ -62,3 +63,8 @@ for episode in range(n_episode_eval):
   total_rewards_eval.append(total_reward)
 
 print('Average total reward over {} episode: {}'.format(n_episode_eval, sum(total_rewards_eval) / n_episode_eval))
+
+plt.plot(total_rewards)
+plt.xlabel('Episode')
+plt.ylabel('Reward')
+plt.show()
