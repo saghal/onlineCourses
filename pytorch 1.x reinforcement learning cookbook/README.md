@@ -7,6 +7,6 @@
 * python 3
 * [pytorch](https://pytorch.org/get-started/locally/)
 * [Gym environment](https://gym.openai.com/docs/)
-
+* [matplotlib](https://pypi.org/project/matplotlib/)
 ## Support
 Reach out to me at saqalimohammad@gmail.com
