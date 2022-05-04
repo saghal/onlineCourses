@@ -6,7 +6,7 @@
 * [Developing a policy gradient algorithm](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%201%20-%20Getting%20Started%20withReinforcement%20Learning%20and%20PyTorch/Developing%20a%20policy%20gradient%20algorithm) in `cartpole gym environment`
 ## [cahpter 2 - Markov Decision Processes and Dynamic Programming](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming)
 * [markov chain for the study and sleep process](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/markov%20chain)
-
+* [MDP for the study and sleep and play process](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/MDP)
 ## Requirements
 * python 3
 * [pytorch](https://pytorch.org/get-started/locally/)
