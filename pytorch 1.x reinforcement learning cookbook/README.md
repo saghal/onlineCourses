@@ -8,6 +8,8 @@
 * [markov chain for the study and sleep process](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/markov%20chain)
 * [MDP for the study and sleep and play process with inversion](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/MDP)
 * [MDP for the study and sleep and play with policy evalution](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/MDP%20with%20policy%20evalution)
+* [random policy in `frozen lake`](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/Frozen%20lake) 
+
 ## Requirements
 * python 3
 * [pytorch](https://pytorch.org/get-started/locally/)
