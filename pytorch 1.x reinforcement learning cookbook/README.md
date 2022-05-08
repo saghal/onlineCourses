@@ -10,6 +10,8 @@
 * [MDP for the study and sleep and play with policy evalution](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/MDP%20with%20policy%20evalution)
 * [random policy in `frozen lake gym env`](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/Frozen%20lake) 
 * [value iteration in `frozen lake gym env`](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/value%20iteration%20in%20Frozen%20Lake%20env)
+* [policy iteration in `frozen lake gym env`](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/value%20iteration%20in%20Frozen%20Lake%20env)
+
 ## Requirements
 * python 3
 * [pytorch](https://pytorch.org/get-started/locally/)
