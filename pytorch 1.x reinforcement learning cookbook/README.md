@@ -17,6 +17,8 @@
 * [policy iteration in `coin-flipping gamble problem`](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%202%20-%20Markov%20Decision%20Processes%20and%20Dynamic%20Programming/coin-flipping%20gamble%20problem/policy%20iteration)
 ## [chapter 3 -Monte Carlo Methods for Making Numerical Estimations](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%203%20-%20Monte%20Carlo%20Methods%20for%20Making%20Numerical%20Estimations)
 * [Calculating Pi using the Monte Carlo method](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%203%20-%20Monte%20Carlo%20Methods%20for%20Making%20Numerical%20Estimations/Calculating%20Pi%20using%20the%20Monte%20Carlo%20method)
+* [Monte Carlo policy evaluation in `frozen lake gym env` (first visit)](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%203%20-%20Monte%20Carlo%20Methods%20for%20Making%20Numerical%20Estimations/MC%20policy%20evaluation%20in%20frozen%20lake(first%20visit))
+* [Monte Carlo policy evaluation in `frozen lake gym env` (every visit)](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%203%20-%20Monte%20Carlo%20Methods%20for%20Making%20Numerical%20Estimations/MC%20policy%20evaluation%20in%20frozen%20lake(every%20visit))
 
 ## Requirements
 * python 3
