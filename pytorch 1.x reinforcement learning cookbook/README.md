@@ -22,6 +22,7 @@
 * [Monte Carlo prediction in `Blackjack env`](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%203%20-%20Monte%20Carlo%20Methods%20for%20Making%20Numerical%20Estimations/Blackjack%20with%20Monte%20Carlo%20prediction)
 * [on-policy Monte Carlo in `Blackjack env`](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%203%20-%20Monte%20Carlo%20Methods%20for%20Making%20Numerical%20Estimations/Blackjack%20with%20on-policy%20Monte%20Carlo)
 * [MC control with epsilon-greedy policy in `Blackjack env`](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%203%20-%20Monte%20Carlo%20Methods%20for%20Making%20Numerical%20Estimations/Developing%20MC%20control%20with%20epsilon-greedy%0Apolicy)
+* [off-policy Monte Carlo control in `Blackjack env`](https://github.com/saghal/onlineCourses/tree/master/pytorch%201.x%20reinforcement%20learning%20cookbook/chapter%203%20-%20Monte%20Carlo%20Methods%20for%20Making%20Numerical%20Estimations/Performing%20off-policy%20Monte%20Carlo%20control)
 ## Requirements
 * python 3
 * [pytorch](https://pytorch.org/get-started/locally/)
