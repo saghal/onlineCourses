@@ -7,6 +7,7 @@ programming assignments for this Specialization
 
 ## [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)
 * [Assignment W1: Blackjack](https://github.com/saghal/onlineCourses/tree/master/Reinforcement%20Learning%20Specialization%20UNIVERSITY%20OF%20ALBERTA/2%20-%20Sample-based%20Learning%20Methods/week%201)
+* [Assignment W2: Policy Evaluation with Temporal Difference Learning](https://github.com/saghal/onlineCourses/tree/master/Reinforcement%20Learning%20Specialization%20UNIVERSITY%20OF%20ALBERTA/2%20-%20Sample-based%20Learning%20Methods/week%202)
 
 
 ## Resources
