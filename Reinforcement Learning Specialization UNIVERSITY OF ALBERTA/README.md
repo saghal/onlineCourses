@@ -9,7 +9,7 @@ programming assignments for this Specialization
 * [Assignment W1: Blackjack](https://github.com/saghal/onlineCourses/tree/master/Reinforcement%20Learning%20Specialization%20UNIVERSITY%20OF%20ALBERTA/2%20-%20Sample-based%20Learning%20Methods/week%201)
 * [Assignment W2: Policy Evaluation with Temporal Difference Learning](https://github.com/saghal/onlineCourses/tree/master/Reinforcement%20Learning%20Specialization%20UNIVERSITY%20OF%20ALBERTA/2%20-%20Sample-based%20Learning%20Methods/week%202)
 * [Assignment W3: Q-Learning and Expected SARSA]()
-* [Assignment W4: Dyna-Q and Dyna-Q+](https://github.com/saghal/onlineCourses/tree/master/Reinforcement%20Learning%20Specialization%20UNIVERSITY%20OF%20ALBERTA/4%20-%20Dyna-Q%20and%20Dyna-Q%2B)
+* [Assignment W4: Dyna-Q and Dyna-Q+](https://github.com/saghal/onlineCourses/tree/master/Reinforcement%20Learning%20Specialization%20UNIVERSITY%20OF%20ALBERTA/2%20-%20Sample-based%20Learning%20Methods/week%204)
 
 
 ## Resources
