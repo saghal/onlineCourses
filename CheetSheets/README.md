@@ -1,5 +1,18 @@
 # Cheat sheet
 
+## general info
+- only 0, "", [], {}, set(), () convert to false through bool()
+- string[start:stop:step]
+- 
+
+## Virtual Environment
+---
+```console
+saghal@saghal-PC:~$ virtualenv <env name>
+saghal@saghal-PC:~$ source <env name>/bin/activate
+saghal@saghal-PC:~$ deactivate
+```
+
 
 ## String striding
 ---
